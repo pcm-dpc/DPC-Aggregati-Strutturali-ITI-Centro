@@ -13,6 +13,10 @@ Repository degli aggregati strutturali italiani area ITI Centro
 
 [Fonti dei dati originali](#Fonti-dei-dati-originali)
 
+[Licenza dei dati originali](#Licenza-dei-dati-originali)
+
+[Sistema di riferimento degli dati originali](#Sistema-di-riferimento-dei-dati-originali)
+
 [Sistema di riferimento degli Aggregati Strutturali](#Sistema-di-riferimento-degli-Aggregati-Strutturali)
 
 [Procedura per la generazione degli Aggregati Strutturali](#Procedura-per-la-generazione-degli-Aggregati-Strutturali)
