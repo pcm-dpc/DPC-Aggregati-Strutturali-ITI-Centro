@@ -1,13 +1,20 @@
 # DPC-Aggregati-Strutturali-ITI-Centro
-## Repository degli aggregati strutturali italiani area ITI Centro
-
-
+Repository degli aggregati strutturali italiani area ITI Centro
 
 [![GitHub license](https://img.shields.io/badge/License-Creative%20Commons%20Attribution%204.0%20International-blue)](https://github.com/pcm-dpc/DPC-Aggregati-Strutturali-ITI-Centro/blob/master/LICENSE)
 [![GitHub commit](https://img.shields.io/github/last-commit/pcm-dpc/DPC-Aggregati-Strutturali-ITC-NordOvest)](https://github.com/pcm-dpc/DPC-Aggregati-Strutturali-ITI-Centro/commits/master)
 
 ## Sommario
 [Struttura del Repository](#Struttura del repository)
+[Aggiornamento dei dati](#Aggiornamento dei dati)
+[Formato dei dati](#Formato dei dati)
+[Fonti dei dati originali](#Fonti dei dati originali)
+[Sistema di riferimento degli Aggregati Strutturali](#Sistema di riferimento degli Aggregati Strutturali)
+[Procedura per la generazione degli Aggregati Strutturali](#Procedura per la generazione degli Aggregati Strutturali)
+[Verifiche di qualità](#Verifiche di qualità)
+[Occupazione di memoria](#Occupazione di memoria)
+[Ulteriori approfondimenti](#Ulteriori approfondimenti)
+[Licenza](#Licenza)
 
 ## Avvisi
 Repository in fase di caricamento
@@ -190,7 +197,7 @@ La struttura dei file è la seguente:
 
 **EPSG:** 3045
 
-## Sistema di riferimento della Carta Nazionale degli Aggregati strutturali
+## Sistema di riferimento degli Aggregati Strutturali
 
 Il sistema di riferimento ufficiale per l’Italia è il sistema ETRF2000 (all’epoca in cui venne definito 2008.0) ed è un obbligo per le Pubbliche Amministrazioni adottarlo in base a quanto stabilito dal DM 10 novembre 2011 “Adozione del Sistema di riferimento geodetico nazionale” (https://www.gazzettaufficiale.it/eli/id/2012/02/27/12A01799/sg).
 
@@ -201,7 +208,7 @@ Per facilitare e standardizzare le procedure di conversione tra i sistemi di rif
 
 Pertanto, utilizzando il software ConveRgo e adottando il ,prj corrispondente al sistema prima nominato RDN2008 / Italy zone (E-N), ovvero l’EPSG 7794, sono stati trasformati tutti i dati dei singoli file regionali dai loro sistemi di riferimento originali in quello di destinazione sopraindicato.
 
-## Procedura per la generazione degli aggregati strutturali
+## Procedura per la generazione degli Aggregati Strutturali
 
 **Fase 1:** _Estrazione e selezione dei dati_
 
