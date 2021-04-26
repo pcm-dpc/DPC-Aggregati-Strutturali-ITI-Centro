@@ -161,6 +161,34 @@ La struttura dei file è la seguente:
 
 **Attribuzione richiesta:** Agenzia delle Entrate
 
+## Sistemi di riferimento
+
+**LAZIO**
+
+**Sistema Riferimento: **ETRS_1989_UTM_Zone_33N
+
+**EPSG: ** 25833
+
+**MARCHE**
+
+**Sistema Riferimento: **RDN2008_Italy_zone
+
+**EPSG: ** 6875
+
+**TOSCANA**
+
+**Sistema Riferimento: **Monte_Mario_Italy_1
+
+**EPSG: ** 3003
+
+**UMBRIA**
+
+**Sistema Riferimento: **ETRS_1989_ETRS-UTM33
+
+**EPSG: ** 3045
+
+
+
 ## Collegamenti utili
 
 ## Normativa di riferimento
