@@ -68,6 +68,7 @@ DPC-Aggregati-Strutturali-ITI-Centro/
 │   │   │   ├── shapefile comuni
 │   │   ├── Terni/
 │   │   │   ├── shapefile comuni
+...
 
 ## Aggiornamento dei dati
 Non pianificato
