@@ -85,8 +85,33 @@ La struttura dei file è la seguente:
 | **Comune**              | Nome ISTAT del Comune.| Denominazione unità amministrative territoriali comunali ISTAT. | Castiglione Cavarese |
 
 
-## Collegamenti utili
+##Fonti dei dati
 
+**LAZIO**
+Disponibili nel Web: http://dati.lazio.it/catalog/it/dataset
+Tipo: CTRN/DBT
+Edizione: 2014
+Scala: 5000
+
+**MARCHE**
+Disponibili nel Web: La Regione Marche non rende fruibili i propri dati come open data in formato shape https://www.regione.marche.it/Regione-Utile/Paesaggio-Territorio-Urbanistica-Genio-Civile/Cartografia-regionale/Repertorio/Carta-tecnica-numerica-110000/opendata . I dati in formato shape sono ceduti dietro richiesta per fini istituzionali con la clausola di non cederli a terzi.
+Tipo: CTRN
+Edizione: 1999/2000
+Scala: 10000
+
+**TOSCANA**
+Disponibili nel Web: http://www502.regione.toscana.it/geoscopio/cartoteca.html
+Tipo: DBT(DM2011)
+Edizione: 1988/2013
+Scala: 10000/2000
+
+**UMBRIA**
+Disponibili nel Web: La Regione Umbria dispone per il suo territorio di una “base” denominata Ecografico Catastale (vedi http://www.umbriageo.regione.umbria.it/pagine/ecografico-catastale ) che non è disponibile per il riutilizzo aggiornata al 2010. Esiste anche la Carta Tecnica Regionale vettoriale alla scala 1:5.000 scaricabile come Open Data (vedi http://www.umbriageo.regione.umbria.it/pagina/distribuzione-carta-tecnica-regionale-vettoriale-1-000 ) con aggiornamento dal 1985 al 2006. Infine, esiste anche il prodotto denominato “Distribuzione Carta Tecnica Regionale 10k vettoriale - esito grafico del Data Base GeoTopografico Tevere-Trasimeno (2013) (vedi http://www.umbriageo.regione.umbria.it/pagina/distribuzione-carta-tecnica-regionale-10k-esito-gr ). In accordo con la Regione Umbria il Dipartimento per la realizzazione degli aggregati strutturali il Dipartimento ha utilizzato la cartografia catastale ricevuta dall’Agenzia delle Entrate in occasione del terremoto nel Centro Italia del 2016.
+Tipo: Catasto
+Edizione: 2016
+Scala: 2000
+
+## Collegamenti utili
 
 ## Normativa di riferimento
 
