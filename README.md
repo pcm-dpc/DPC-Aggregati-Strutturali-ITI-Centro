@@ -15,7 +15,7 @@ La classe 1 (NUTS-1) nel caso dell’Italia, ai fini statistici, rappresenta la 
 A ciascun gruppo è associato un proprio identificativo composto da una sequenza di tre lettere di cui le prime due corrispondono alla sigla dello Stato Italiano (IT).
 
 <img src="https://github.com/pcm-dpc/DPC-Aggregati-Strutturali-ITI-Centro/blob/master/RipartizioniISTAT.PNG" />
-
+```
 DPC-Aggregati-Strutturali-ITI-Centro/
 │
 ├── Centro/
