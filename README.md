@@ -31,7 +31,7 @@ DPC-Aggregati-Strutturali-ITI-Centro/
 │   │   ├── Viterbo
 │   │   │   ├── shapefile comuni
 │   ├── Marche/
-│   │   ├── Ancona/
+│   │   ├── Ancona
 │   │   │   ├── shapefile comuni
 │   │   ├── AscoliPiceno/
 │   │   │   ├── shapefile comuni
