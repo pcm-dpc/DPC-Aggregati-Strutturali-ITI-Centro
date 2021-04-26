@@ -76,13 +76,8 @@ Non pianificato
 ## Formato dei dati
 | Nome campo                  | Descrizione                       | Formato                            | Esempio                            |
 |-----------------------------|-----------------------------------|----------------------------------------|----------------------------------------|
-| **IDAG**                        | Codice univoco dell’Aggregato Strutturale | 2 cifre: codice ISTAT Regione
-3 cifre: codice ISTAT Provincia
-3 cifre: codice ISTAT Comune
-10 cifre numero progressivo
-2 cifre ulteriore identificativo |07010013000000069200| 
-| **Label**                       | ID Sequenziale nell’ambito del comune | Numero progressivo di identificazione dell’aggregato strutturale all’interno del Comune (utile per la rappresentazione in mappa) 
-|692|
+| **IDAG**                        | Codice univoco dell’Aggregato Strutturale | 2 cifre: codice ISTAT Regione 3 cifre: codice ISTAT Provincia 3 cifre: codice ISTAT Comune 10 cifre numero progressivo 2 cifre ulteriore identificativo |07010013000000069200| 
+| **Label**                       | ID Sequenziale nell’ambito del comune | Numero progressivo di identificazione dell’aggregato strutturale all’interno del Comune (utile per la rappresentazione in mappa) |692|
 | **Comune**              | Nome ISTAT del Comune | Denominazione unità amministrative territoriali comunali ISTAT | Castiglione Cavarese |
 
 
