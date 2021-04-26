@@ -219,9 +219,34 @@ I segmenti che riguardano poligoni adiacenti vengono successivamente selezionati
 Ai nuovi poligoni generati vengono assegnati dei nuovi attributi secondo lo schema adottato (in particolare il codice IDAG) e vengono memorizzati in formato shapefile con un nome corrispondente al nome del comune ISTAT a cui si riferiscono. I nomi dei comuni per diventare nome di file vengono normalizzati rispetto ad alcune caratteristiche testuali che possono generare conflitti (ad es. spazi, accenti, apostrofi).
 Tutti i dati generati durante le varie fasi dell’elaborazione sono conservati in appositi file in formato File Geodatabase ESRI. Anche i file originali sono conservati nei formati con i quali sono stati trasmessi al DPC.
 
-**ase 5:** _Elaborazione dei dati a livello regionale_
+**Fase 5:** _Elaborazione dei dati a livello regionale_
 
 Per risolvere eventuali incongruenze generatesi ai bordi di comuni adiacenti, tutti i file comunali vengono successivamente uniti a livello provinciale e, infine, regionale e sottoposti alla medesima procedura illustrata in precedenza. In tal modo potranno essere ulteriormente accorpati – ove necessario – ulteriori poligoni adiacenti posti ai confini dei comuni e rimasti separati. L’aggregazione a livello regionale risulta infine propedeutica all’effettuazione dei controlli di qualità.
+
+## Verifiche di qualità
+
+**Fase 1:** _Verifica a livello comunale_
+-	Controllo completezza dei dati
+	
+-	Controllo conformità allo schema dati
+	
+-	Verifica IDAG duplicati. Si evidenzia il caso della Regione Piemonte, che è l’unica regione per la quale non sono stati calcolati i nuovi valori di IDAG in quanto la regione li aveva precedentemente calcolati attribuendoli alla classe degli Edifici del BDTRE. Questo ha comportato, nella suddivisione nelle unità amministrative istata, anche delle discrepanze tra l comune ISTAT e il comune dal quale è stato ricavato il codice IDAG. In questa regione sono stati verificati anche gli UUID degli edifici, che in taluni casi sono risultati duplicati.
+
+-	Verifica correttezza IDAG
+
+**Fase 2:** _Verifica a livello regionale_
+
+-	Effettuazione analisi di prossimità sui file regionali (viene mantenuto il campo IDAG)
+
+-	Ricalcolo dei codici ProCom dei comuni adiacenti per controllo dei poligoni adiacenti ma appartenenti a comuni diversi
+
+-	Join con della tabella generata dall’analisi di prossimità con il file regionale e analisi dei poligoni interessati
+
+-	Verifica dei casi in cui è stata individuata sovrapposizione e successiva eliminazione di feature duplicate
+-	
+-	Verifica dei casi con segmenti adiacenti ed eventuale unione con editing manuale
+
+-	Verifica dei casi di vertici adiacenti. Si considerano solo i casi di 2 o più vertici coincidenti perché possono evidenziare adiacenze complesse. Questi casi, ove riscontrati, sono corretti da editing manuale
 
 ## Collegamenti utili
 
