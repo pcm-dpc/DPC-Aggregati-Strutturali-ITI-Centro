@@ -133,16 +133,17 @@ La struttura dei file è la seguente:
 
 **Licenza dataset originale:** CC BY 3.0
 
-Autorizzazione specifica: NO
+**Autorizzazione specifica:** NO
 
-**Attribuzione:** Regione Lazio
+**Attribuzione richiesta:** Regione Lazio
 
 **MARCHE**
 
 **Licenza dataset originale:** DGR n.783/2017
 
 **Autorizzazione specifica:** Nota del 18 gennaio 2021 Regione Marche Giunta Regionale – Servizio Tutela, Gestione e Assetto del Territorio
-**Attribuzione:** Regione Marche
+
+**Attribuzione richiesta:** Regione Marche
 
 **TOSCANA**
 
@@ -150,7 +151,7 @@ Autorizzazione specifica: NO
 
 **Autorizzazione specifica:** NO
 
-**Attribuzione:** Regione Toscana
+**Attribuzione richiesta:** Regione Toscana
 
 **UMBRIA**
 
@@ -158,7 +159,7 @@ Autorizzazione specifica: NO
 
 **Autorizzazione specifica:** Nota dell’1 marzo 2021 dell’Agenzia delle Entrate – Direzione Centrale Servizi Catastali, Cartografici e di Pubblicità Immobiliare
 
-**Attribuzione:** Agenzia delle Entrate
+**Attribuzione richiesta:** Agenzia delle Entrate
 
 ## Collegamenti utili
 
