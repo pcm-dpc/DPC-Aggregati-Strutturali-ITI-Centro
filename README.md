@@ -198,6 +198,31 @@ Per facilitare e standardizzare le procedure di conversione tra i sistemi di rif
 
 Pertanto, utilizzando il software ConveRgo e adottando il ,prj corrispondente al sistema prima nominato RDN2008 / Italy zone (E-N), ovvero l’EPSG 7794, sono stati trasformati tutti i dati dei singoli file regionali dai loro sistemi di riferimento originali in quello di destinazione sopraindicato.
 
+## Procedura per la generazione degli aggregati strutturali
+
+**Fase 1:** _Estrazione e selezione dei dati_
+
+Ove disponibili, vengono scaricate le feature delle classi del DBT “Edifici”, “Edifici minori” e “Manufatti industriali”. Nell’ambito delle tipologie previste dalle specifiche dei DBT  vengono selezione in particolare la maggior parte delle feature previste, con l’esclusione di una piccola parte di oggetti ritenuti non di interesse ai fini dei sopralluoghi di rilievo del danno ai fini della valutazione di agibilità. Questa riselezione riguarda in prevalenza la classe degli edifici minori e dei manufatti industriali (ad es. sono esclusi, tombe, edicole funerarie, garage, attrezzature turistiche, tendoni pressurizzati tra le tipologie di edifici minori e serbatoi interrati, pale eoliche, pannelli fotovoltaici e torri di raffreddamento tra le tipologie di manufatti industriali).
+
+**Fase 2:** _Riferimento alle Unità amministrative territoriali ISTAT_
+
+Secondo il Manuale per la compilazione della Scheda AeDES  gli aggregati strutturali devono essere identificati principalmente con riferimento ai codici ISTAT delle Regioni, Province e Comuni. Pertanto nell’attribuzione del codice IDAG e nella selezione delle relative feature sono stati utilizzati i dati delle Unità Amministrative Territoriali ISTAT con aggiornamento 2021 . Nell’operazione di selezione sono state incluse in ciascun comune le feature che avessero il proprio centroide all’interno del relativo poligono ISTAT.
+
+**Fase 3:** _Elaborazione dei dati a livello comunale_
+
+L’elaborazione principale avviene per tutti i comuni all’interno di ciascuna provincia e utilizza alcuni tool di geoprocessing resi disponibili dal software ArcGIS di ESRI, che è stato appunto utilizzato per le elaborazioni.
+Ciascun poligono viene inizialmente convertito in line derivate dai segmenti che costituiscono i contorni dei medesimi poligoni tenendo conto se ciascun segmento è condiviso o meno con un poligono confinante.
+I segmenti che riguardano poligoni adiacenti vengono successivamente selezionati e i poligoni a cui essi appartengono sono uniti secondo il criterio di prevalenza del poligono con area maggiore e bordo comune più lungo.
+
+**Fase 4:** _Memorizzazione dei risultati_
+
+Ai nuovi poligoni generati vengono assegnati dei nuovi attributi secondo lo schema adottato (in particolare il codice IDAG) e vengono memorizzati in formato shapefile con un nome corrispondente al nome del comune ISTAT a cui si riferiscono. I nomi dei comuni per diventare nome di file vengono normalizzati rispetto ad alcune caratteristiche testuali che possono generare conflitti (ad es. spazi, accenti, apostrofi).
+Tutti i dati generati durante le varie fasi dell’elaborazione sono conservati in appositi file in formato File Geodatabase ESRI. Anche i file originali sono conservati nei formati con i quali sono stati trasmessi al DPC.
+
+**ase 5:** _Elaborazione dei dati a livello regionale_
+
+Per risolvere eventuali incongruenze generatesi ai bordi di comuni adiacenti, tutti i file comunali vengono successivamente uniti a livello provinciale e, infine, regionale e sottoposti alla medesima procedura illustrata in precedenza. In tal modo potranno essere ulteriormente accorpati – ove necessario – ulteriori poligoni adiacenti posti ai confini dei comuni e rimasti separati. L’aggregazione a livello regionale risulta infine propedeutica all’effettuazione dei controlli di qualità.
+
 ## Collegamenti utili
 
 ## Normativa di riferimento
