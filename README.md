@@ -248,6 +248,28 @@ Per risolvere eventuali incongruenze generatesi ai bordi di comuni adiacenti, tu
 
 -	Verifica dei casi di vertici adiacenti. Si considerano solo i casi di 2 o più vertici coincidenti perché possono evidenziare adiacenze complesse. Questi casi, ove riscontrati, sono corretti da editing manuale
 
+## Occupazione di memoria
+
+**LAZIO**
+**Size (Mb):** 916
+**Codice Ripartizione NUTS-1:** 3
+**Numero delle features:** 1662265
+
+**MARCHE**
+**Size (Mb):** 132
+**Codice Ripartizione NUTS-1:** 3
+**Numero delle features:** 426976
+
+**TOSCANA**
+**Size (Mb):** 427
+**Codice Ripartizione NUTS-1:** 3
+**Numero delle features:** 1211596
+
+**UMBRIA**
+**Size (Mb):** 142
+**Codice Ripartizione NUTS-1:** 3
+**Numero delle features:** 389943
+
 ## Attori coinvolti
 
 Attività istituzionale realizzata in collaborazione tra il Servizio Sistemi Informativi e di comunicazione dell’Ufficio Risorse umane e strumentali e servizi generali di funzionamento (RUS) e i Servizi Attività di rilievo del danno e misure provvisionali e Supporto agli interventi strutturali e gestioni rientrate in ordinario, dell’Ufficio Attività per il superamento dell’emergenza e il supporto agli interventi strutturali (POST), entrambi appartenenti al Dipartimento della protezione civile della Presidenza del Consiglio dei Ministri.
