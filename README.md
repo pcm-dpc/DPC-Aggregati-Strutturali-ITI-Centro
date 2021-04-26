@@ -262,7 +262,7 @@ Maria Giovanna Martini, Cosmo Mercuri, Simona Papa, Filomena Papa, Angelo Giusep
 
 **Referenti regionali (per il tramite della “Commissione speciale Protezione civile” della Conferenza delle Regioni e delle Province autonome):**
 
-_Abruzzo:_ Raffaella Molinari; _Basilicata:_ Alfredo Marino; _Calabria:_ Antonio Morabito; _Campania:_ Massimiliano Rauci; _Emilia-Romagna: Fiorella Galluccio; _Friuli Venezia Giul_ia:_ Fu_lvio Nodari; _Lazi_o:_ Ade_laide Sericola; _Lig_uria:_ Mar_iano Strippoli; _Lombard_ia:_ An_tonella Belloni; __Marche:_ _Piepaolo Tiberi; _Molise:_ Diego Antonecchia; _Piemonte_:_ Erika Ceriana Mayneri; _Puglia:_ Pasquale Cafaro; _Sardegna:_ Antonio Usai; _Sicilia:_ Antonio Torrisi; _Toscana:_ Massimo Baglione_; _Umbria:_ Michel_e Bellezza; _Valle d’Aosta:_ Gianfranco Maccaferri; _Veneto:_ Umberto Trivelloni; _Provincia Autonoma di Bolzano:_ Diego Mantovani; _Provincia Autonoma di Trento:_ Mauro Zambotto.
+_Abruzzo:_ Raffaella Molinari; _Basilicata:_ Alfredo Marino; _Calabria:_ Antonio Morabito; _Campania:_ Massimiliano Rauci; _Emilia-Romagna:_ Fiorella Galluccio; _Friuli Venezia Giulia:_ Fulvio Nodari; _Lazio:_ Adelaide Sericola; _Liguria:_ Mariano Strippoli; _Lombardia:_ Antonella Belloni; _Marche:_ Piepaolo Tiberi; _Molise:_ Diego Antonecchia; _Piemonte_:_ Erika Ceriana Mayneri; _Puglia:_ Pasquale Cafaro; _Sardegna:_ Antonio Usai; _Sicilia:_ Antonio Torrisi; _Toscana:_ Massimo Baglione; _Umbria:_ Michele Bellezza; _Valle d’Aosta:_ Gianfranco Maccaferri; _Veneto:_ Umberto Trivelloni; _Provincia Autonoma di Bolzano:_ Diego Mantovani; _Provincia Autonoma di Trento:_ Mauro Zambotto.
 
 **Referenti CISIS:**
 
