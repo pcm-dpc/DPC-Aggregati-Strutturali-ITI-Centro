@@ -161,7 +161,7 @@ La struttura dei file è la seguente:
 
 **Attribuzione richiesta:** Agenzia delle Entrate
 
-## Sistemi di riferimento
+## Sistemi di riferimento dei dati originali
 
 **LAZIO**
 
