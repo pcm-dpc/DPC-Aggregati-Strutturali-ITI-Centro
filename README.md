@@ -4,6 +4,9 @@ Repository degli aggregati strutturali italiani area ITI Centro
 [![GitHub license](https://img.shields.io/badge/License-Creative%20Commons%20Attribution%204.0%20International-blue)](https://github.com/pcm-dpc/DPC-Aggregati-Strutturali-ITI-Centro/blob/master/LICENSE)
 [![GitHub commit](https://img.shields.io/github/last-commit/pcm-dpc/DPC-Aggregati-Strutturali-ITC-NordOvest)](https://github.com/pcm-dpc/DPC-Aggregati-Strutturali-ITI-Centro/commits/master)
 
+## Avvisi
+Repository in fase di caricamento
+
 ## Sommario
 [Struttura del Repository](#Struttura-del-repository)
 
@@ -15,7 +18,7 @@ Repository degli aggregati strutturali italiani area ITI Centro
 
 [Licenza dei dati originali](#Licenza-dei-dati-originali)
 
-[Sistema di riferimento degli dati originali](#Sistema-di-riferimento-dei-dati-originali)
+[Sistemi di riferimento degli dati originali](#Sistemi-di-riferimento-dei-dati-originali)
 
 [Sistema di riferimento degli Aggregati Strutturali](#Sistema-di-riferimento-degli-Aggregati-Strutturali)
 
@@ -25,12 +28,12 @@ Repository degli aggregati strutturali italiani area ITI Centro
 
 [Occupazione di memoria](#Occupazione-di-memoria)
 
+[Attori coinvolti](#Attori-coinvolti)
+
 [Ulteriori approfondimenti](#Ulteriori-approfondimenti)
 
 [Licenza](#Licenza)
 
-## Avvisi
-Repository in fase di caricamento
 
 ## Struttura del repository
 La serie di Dataset è organizzata in 5 repository corrispondenti alla classe 1 della Nomenclatura delle Unità territoriali statistiche (NUTS), che identifica la ripartizione del territorio dell'Unione europea a fini statistici. 
