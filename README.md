@@ -243,7 +243,7 @@ Per risolvere eventuali incongruenze generatesi ai bordi di comuni adiacenti, tu
 -	Join con della tabella generata dall’analisi di prossimità con il file regionale e analisi dei poligoni interessati
 
 -	Verifica dei casi in cui è stata individuata sovrapposizione e successiva eliminazione di feature duplicate
--	
+
 -	Verifica dei casi con segmenti adiacenti ed eventuale unione con editing manuale
 
 -	Verifica dei casi di vertici adiacenti. Si considerano solo i casi di 2 o più vertici coincidenti perché possono evidenziare adiacenze complesse. Questi casi, ove riscontrati, sono corretti da editing manuale
