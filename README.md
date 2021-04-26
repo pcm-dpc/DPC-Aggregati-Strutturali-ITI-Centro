@@ -237,7 +237,7 @@ Secondo il Manuale per la compilazione della Scheda AeDES  gli aggregati struttu
 **Fase 3:** _Elaborazione dei dati a livello comunale_
 
 L’elaborazione principale avviene per tutti i comuni all’interno di ciascuna provincia e utilizza alcuni tool di geoprocessing resi disponibili dal software ArcGIS di ESRI, che è stato appunto utilizzato per le elaborazioni.
-Ciascun poligono viene inizialmente convertito in line derivate dai segmenti che costituiscono i contorni dei medesimi poligoni tenendo conto se ciascun segmento è condiviso o meno con un poligono confinante.
+Ciascun poligono viene inizialmente convertito in line derivate dai segmenti che costituiscono i contorni dei medesimi poligoni tenendo conto se ciascun segmento è condiviso o meno con un poligono confinante (vedi figura: Fonte ESRI Inc.).
 
 <img src="https://github.com/pcm-dpc/DPC-Aggregati-Strutturali-ITI-Centro/blob/master/PolygonNeighbors.png" />
 
