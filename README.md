@@ -5,7 +5,7 @@ Repository degli aggregati strutturali italiani area ITI Centro
 [![GitHub commit](https://img.shields.io/github/last-commit/pcm-dpc/DPC-Aggregati-Strutturali-ITC-NordOvest)](https://github.com/pcm-dpc/DPC-Aggregati-Strutturali-ITI-Centro/commits/master)
 
 ## Sommario
-[Struttura del Repository](#Struttura del repository)
+[Struttura del Repository](#Struttura-del-repository)
 
 [Aggiornamento dei dati](#Aggiornamento dei dati)
 
