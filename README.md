@@ -85,7 +85,7 @@ La struttura dei file è la seguente:
 | **Comune**              | Nome ISTAT del Comune.| Denominazione unità amministrative territoriali comunali ISTAT. | Castiglione Cavarese |
 
 
-## Fonti dei dati
+## Fonti dei dati originali
 
 **LAZIO**
 
@@ -97,8 +97,8 @@ La struttura dei file è la seguente:
 
 **Scala:** 5000
 
-
 **MARCHE**
+
 **Disponibili nel Web:** La Regione Marche non rende fruibili i propri dati come open data in formato shape https://www.regione.marche.it/Regione-Utile/Paesaggio-Territorio-Urbanistica-Genio-Civile/Cartografia-regionale/Repertorio/Carta-tecnica-numerica-110000/opendata . I dati in formato shape sono ceduti dietro richiesta per fini istituzionali con la clausola di non cederli a terzi.
 
 **Tipo:** CTRN
@@ -123,9 +123,42 @@ La struttura dei file è la seguente:
 
 **Tipo:** Catasto
 
-**dizione:** 2016
+**Edizione:** 2016
 
 **Scala:** 2000
+
+## Licenza dei dati originali
+
+**LAZIO**
+
+**Licenza dataset originale:** CC BY 3.0
+
+Autorizzazione specifica: NO
+
+**Attribuzione:** Regione Lazio
+
+**MARCHE**
+
+**Licenza dataset originale:** DGR n.783/2017
+
+**Autorizzazione specifica:** Nota del 18 gennaio 2021 Regione Marche Giunta Regionale – Servizio Tutela, Gestione e Assetto del Territorio
+**Attribuzione:** Regione Marche
+
+**TOSCANA**
+
+**Licenza dataset originale:** CC BY 4.0
+
+**Autorizzazione specifica:** NO
+
+**Attribuzione:** Regione Toscana
+
+**UMBRIA**
+
+**Licenza dataset originale:** Non presente
+
+**Autorizzazione specifica:** Nota dell’1 marzo 2021 dell’Agenzia delle Entrate – Direzione Centrale Servizi Catastali, Cartografici e di Pubblicità Immobiliare
+
+**Attribuzione:** Agenzia delle Entrate
 
 ## Collegamenti utili
 
