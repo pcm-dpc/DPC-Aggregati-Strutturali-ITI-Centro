@@ -7,7 +7,7 @@
 [![GitHub commit](https://img.shields.io/github/last-commit/pcm-dpc/DPC-Aggregati-Strutturali-ITC-NordOvest)](https://github.com/pcm-dpc/DPC-Aggregati-Strutturali-ITI-Centro/commits/master)
 
 ## Sommario
-[Struttura del Repository] (# Struttura del repository)
+[Struttura del Repository](# Struttura del repository)
 
 ## Avvisi
 Repository in fase di caricamento
@@ -311,7 +311,7 @@ Flavio Celestino Ferrante e Maurizio Ambrosanio (Agenzia delle Entrate - Direzio
 
 ## Ulteriori approfondimenti
 
-[Relazione tecnica finale] (https://github.com/pcm-dpc/DPC-Aggregati-Strutturali-ITI-Centro/blob/master/CartografiaNazionaleAggregatiStrutturali_Finale.pdf)
+[Relazione tecnica finale](https://github.com/pcm-dpc/DPC-Aggregati-Strutturali-ITI-Centro/blob/master/CartografiaNazionaleAggregatiStrutturali_Finale.pdf)
 
 ## Licenza
 [CC-BY-4.0](https://creativecommons.org/licenses/by/4.0/deed.it) - [Visualizza licenza](https://github.com/pcm-dpc/DPC-Aggregati-Strutturali-ITI-Centro/blob/master/LICENSE)
