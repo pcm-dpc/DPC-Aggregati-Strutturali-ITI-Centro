@@ -232,7 +232,7 @@ Ove disponibili, vengono scaricate le feature delle classi del DBT “Edifici”
 
 **Fase 2:** _Riferimento alle Unità amministrative territoriali ISTAT_
 
-Secondo il Manuale per la compilazione della Scheda AeDES  gli aggregati strutturali devono essere identificati principalmente con riferimento ai codici ISTAT delle Regioni, Province e Comuni. Pertanto nell’attribuzione del codice IDAG e nella selezione delle relative feature sono stati utilizzati i dati delle Unità Amministrative Territoriali ISTAT con aggiornamento 2021 . Nell’operazione di selezione sono state incluse in ciascun comune le feature che avessero il proprio centroide all’interno del relativo poligono ISTAT.
+Secondo il Manuale per la compilazione della Scheda AeDES (http://www.protezionecivile.gov.it/documents/20182/0/2_LRManualeAedes_31_ottobre_GU_.pdf/8b4e4207-a767-4579-9971-d4c714a5fd4c - pagina 22) gli aggregati strutturali devono essere identificati principalmente con riferimento ai codici ISTAT delle Regioni, Province e Comuni. Pertanto nell’attribuzione del codice IDAG e nella selezione delle relative feature sono stati utilizzati i dati delle Unità Amministrative Territoriali ISTAT con aggiornamento 2021 (https://www.istat.it/it/archivio/222527). Nell’operazione di selezione sono state incluse in ciascun comune le feature che avessero il proprio centroide all’interno del relativo poligono ISTAT.
 
 **Fase 3:** _Elaborazione dei dati a livello comunale_
 
