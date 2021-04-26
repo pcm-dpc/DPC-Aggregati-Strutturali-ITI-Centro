@@ -88,13 +88,14 @@ La struttura dei file è la seguente:
 ## Fonti dei dati
 
 **LAZIO**
-Disponibili nel Web: http://dati.lazio.it/catalog/it/dataset
 
-Tipo: CTRN/DBT
+**Disponibili nel Web:** http://dati.lazio.it/catalog/it/dataset
 
-Edizione: 2014
+**Tipo:** CTRN/DBT
 
-Scala: 5000
+**Edizione:** 2014
+
+**Scala:** 5000
 
 
 **MARCHE**
