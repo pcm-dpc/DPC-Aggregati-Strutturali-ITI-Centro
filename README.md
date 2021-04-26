@@ -306,10 +306,9 @@ Umberto Trivelloni, Gian Bartolomeo Siletto e Claudio Mazzi.
 
 Flavio Celestino Ferrante e Maurizio Ambrosanio (Agenzia delle Entrate - Direzione Centrale Servizi Catastali, Cartografici e di Pubblicità Immobiliare); Mirco Sturari (Regione Marche); Laura Garbati (Consulente CISIS); Stefano Olivucci (Regione Emilia-Romagna); Stefano Campus (Regione Piemonte); Antonella Cuccurullo (Regione Lombardia); David Colmano (P.A. di Bolzano); Maria Basi (Regione Abruzzo).
 
-## Collegamenti utili
+## Ulteriori approfondimenti
 
-## Normativa di riferimento
-
+[Relazione tecnica finale] https://github.com/pcm-dpc/DPC-Aggregati-Strutturali-ITI-Centro/blob/master/CartografiaNazionaleAggregatiStrutturali_Finale.pdf
 
 ## Licenza
 [CC-BY-4.0](https://creativecommons.org/licenses/by/4.0/deed.it) - [Visualizza licenza](https://github.com/pcm-dpc/DPC-Aggregati-Strutturali-ITI-Centro/blob/master/LICENSE)
