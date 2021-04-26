@@ -24,9 +24,9 @@ Repository in fase di caricamento
 
 [Procedura per la generazione degli Aggregati Strutturali](#Procedura-per-la-generazione-degli-Aggregati-Strutturali)
 
-[Verifiche di qualità](#Verifiche-di-qualità)
+[Verifiche di qualità degli Aggregati Strutturali](#Verifiche-di-qualità-degli-Aggregati-Strutturali)
 
-[Occupazione di memoria](#Occupazione-di-memoria)
+[Occupazione di memoria Regionale](#Occupazione-di-memoria-Regionale)
 
 [Attori coinvolti](#Attori-coinvolti)
 
@@ -249,7 +249,7 @@ Tutti i dati generati durante le varie fasi dell’elaborazione sono conservati 
 
 Per risolvere eventuali incongruenze generatesi ai bordi di comuni adiacenti, tutti i file comunali vengono successivamente uniti a livello provinciale e, infine, regionale e sottoposti alla medesima procedura illustrata in precedenza. In tal modo potranno essere ulteriormente accorpati – ove necessario – ulteriori poligoni adiacenti posti ai confini dei comuni e rimasti separati. L’aggregazione a livello regionale risulta infine propedeutica all’effettuazione dei controlli di qualità.
 
-## Verifiche di qualità
+## Verifiche di qualità degli Aggregati Strutturali
 
 **Fase 1:** _Verifica a livello comunale_
 -	Controllo completezza dei dati
@@ -274,7 +274,7 @@ Per risolvere eventuali incongruenze generatesi ai bordi di comuni adiacenti, tu
 
 -	Verifica dei casi di vertici adiacenti. Si considerano solo i casi di 2 o più vertici coincidenti perché possono evidenziare adiacenze complesse. Questi casi, ove riscontrati, sono corretti da editing manuale
 
-## Occupazione di memoria
+## Occupazione di memoria Regionale
 
 **LAZIO**
 
