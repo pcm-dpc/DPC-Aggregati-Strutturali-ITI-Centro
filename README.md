@@ -19,15 +19,15 @@ A ciascun gruppo è associato un proprio identificativo composto da una sequenza
 DPC-Aggregati-Strutturali-ITI-Centro/│
 ├── Centro/
 │   ├── Lazio/
-│   │   ├── Frosinone/
+│   │   ├── Frosinone
 │   │   │   ├── shapefile comuni
-│   │   ├── Latina/
+│   │   ├── Latina
 │   │   │   ├── shapefile comuni
-│   │   ├── Rieti/
+│   │   ├── Rieti
 │   │   │   ├── shapefile comuni
-│   │   ├── Roma/
+│   │   ├── Roma
 │   │   │   ├── shapefile comuni
-│   │   ├── Viterbo/
+│   │   ├── Viterbo
 │   │   │   ├── shapefile comuni
 │   ├── Marche/
 │   │   ├── Ancona/
