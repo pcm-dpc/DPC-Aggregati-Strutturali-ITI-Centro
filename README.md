@@ -308,7 +308,7 @@ Flavio Celestino Ferrante e Maurizio Ambrosanio (Agenzia delle Entrate - Direzio
 
 ## Ulteriori approfondimenti
 
-[Relazione tecnica finale] https://github.com/pcm-dpc/DPC-Aggregati-Strutturali-ITI-Centro/blob/master/CartografiaNazionaleAggregatiStrutturali_Finale.pdf
+[Relazione tecnica finale] (CartografiaNazionaleAggregatiStrutturali_Finale.pdf)
 
 ## Licenza
 [CC-BY-4.0](https://creativecommons.org/licenses/by/4.0/deed.it) - [Visualizza licenza](https://github.com/pcm-dpc/DPC-Aggregati-Strutturali-ITI-Centro/blob/master/LICENSE)
