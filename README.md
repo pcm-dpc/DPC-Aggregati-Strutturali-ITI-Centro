@@ -248,6 +248,30 @@ Per risolvere eventuali incongruenze generatesi ai bordi di comuni adiacenti, tu
 
 -	Verifica dei casi di vertici adiacenti. Si considerano solo i casi di 2 o più vertici coincidenti perché possono evidenziare adiacenze complesse. Questi casi, ove riscontrati, sono corretti da editing manuale
 
+## Attori coinvolti
+
+Attività istituzionale realizzata in collaborazione tra il Servizio Sistemi Informativi e di comunicazione dell’Ufficio Risorse umane e strumentali e servizi generali di funzionamento (RUS) e i Servizi Attività di rilievo del danno e misure provvisionali e Supporto agli interventi strutturali e gestioni rientrate in ordinario, dell’Ufficio Attività per il superamento dell’emergenza e il supporto agli interventi strutturali (POST), entrambi appartenenti al Dipartimento della protezione civile della Presidenza del Consiglio dei Ministri.
+
+**A cura di:**
+
+Pierluigi Cara
+
+**Revisione della documentazione a cura di:**
+
+Maria Giovanna Martini, Cosmo Mercuri, Simona Papa, Filomena Papa, Angelo Giuseppe Pizza e Carmelo Vairo.
+
+**Referenti regionali (per il tramite della “Commissione speciale Protezione civile” della Conferenza delle Regioni e delle Province autonome):**
+
+Abruzzo: Raffaella Molinari; Basilicata: Alfredo Marino; Calabria: Antonio Morabito; Campania: Massimiliano Rauci; Emilia-Romagna: Fiorella Galluccio; Friuli Venezia Giulia: Fulvio Nodari; Lazio: Adelaide Sericola; Liguria: Mariano Strippoli; Lombardia Antonella Belloni; Marche: Piepaolo Tiberi; Molise: Diego Antonecchia; Piemonte: Erika Ceriana Mayneri; Puglia: Pasquale Cafaro; Sardegna: Antonio Usai; Sicilia: Antonio Torrisi; Toscana: Massimo Baglione; Umbria: Michele Bellezza; Valle d’Aosta: Gianfranco Maccaferri; Veneto: Umberto Trivelloni; Prov. aut. Bolzano: Diego Mantovani; Prov. aut. Trento: Mauro Zambotto.
+
+**Referenti CISIS:**
+
+Umberto Trivelloni, Gian Bartolomeo Siletto e Claudio Mazzi.
+
+**Ringraziamenti:**
+
+Flavio Celestino Ferrante e Maurizio Ambrosanio (Agenzia delle Entrate - Direzione Centrale Servizi Catastali, Cartografici e di Pubblicità Immobiliare); Mirco Sturari (Regione Marche); Laura Garbati (Consulente CISIS); Stefano Olivucci (Regione Emilia-Romagna); Stefano Campus (Regione Piemonte); Antonella Cuccurullo (Regione Lombardia); David Colmano (P.A. di Bolzano); Maria Basi (Regione Abruzzo).
+
 ## Collegamenti utili
 
 ## Normativa di riferimento
