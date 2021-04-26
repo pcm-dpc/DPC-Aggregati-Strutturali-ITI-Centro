@@ -251,23 +251,35 @@ Per risolvere eventuali incongruenze generatesi ai bordi di comuni adiacenti, tu
 ## Occupazione di memoria
 
 **LAZIO**
+
 **Size (Mb):** 916
+
 **Codice Ripartizione NUTS-1:** 3
+
 **Numero delle features:** 1662265
 
 **MARCHE**
+
 **Size (Mb):** 132
+
 **Codice Ripartizione NUTS-1:** 3
+
 **Numero delle features:** 426976
 
 **TOSCANA**
+
 **Size (Mb):** 427
+
 **Codice Ripartizione NUTS-1:** 3
+
 **Numero delle features:** 1211596
 
 **UMBRIA**
+
 **Size (Mb):** 142
+
 **Codice Ripartizione NUTS-1:** 3
+
 **Numero delle features:** 389943
 
 ## Attori coinvolti
