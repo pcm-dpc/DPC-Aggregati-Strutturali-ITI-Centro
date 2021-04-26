@@ -7,21 +7,21 @@ Repository degli aggregati strutturali italiani area ITI Centro
 ## Sommario
 [Struttura del Repository](#Struttura-del-repository)
 
-[Aggiornamento dei dati](#Aggiornamento dei dati)
+[Aggiornamento dei dati](#Aggiornamento-dei-dati)
 
-[Formato dei dati](#Formato dei dati)
+[Formato dei dati](#Formato-dei-dati)
 
-[Fonti dei dati originali](#Fonti dei dati originali)
+[Fonti dei dati originali](#Fonti-dei-dati-originali)
 
-[Sistema di riferimento degli Aggregati Strutturali](#Sistema di riferimento degli Aggregati Strutturali)
+[Sistema di riferimento degli Aggregati Strutturali](#Sistema-di-riferimento-degli-Aggregati-Strutturali)
 
-[Procedura per la generazione degli Aggregati Strutturali](#Procedura per la generazione degli Aggregati Strutturali)
+[Procedura per la generazione degli Aggregati Strutturali](#Procedura-per-la-generazione-degli-Aggregati-Strutturali)
 
-[Verifiche di qualità](#Verifiche di qualità)
+[Verifiche di qualità](#Verifiche-di-qualità)
 
-[Occupazione di memoria](#Occupazione di memoria)
+[Occupazione di memoria](#Occupazione-di-memoria)
 
-[Ulteriori approfondimenti](#Ulteriori approfondimenti)
+[Ulteriori approfondimenti](#Ulteriori-approfondimenti)
 
 [Licenza](#Licenza)
 
