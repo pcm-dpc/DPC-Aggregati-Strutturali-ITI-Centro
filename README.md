@@ -10,15 +10,17 @@ Repository in fase di caricamento
 ## Sommario
 [Struttura del Repository](#Struttura-del-repository)
 
-[Aggiornamento dei dati](#Aggiornamento-dei-dati)
-
-[Formato dei dati](#Formato-dei-dati)
+[DESCRIZIONE DEI DATI ORIGINALI](#DESCRIZIONE-DEI-DATI-ORIGINALI)
 
 [Fonti dei dati originali](#Fonti-dei-dati-originali)
 
 [Licenza dei dati originali](#Licenza-dei-dati-originali)
 
 [Sistemi di riferimento degli dati originali](#Sistemi-di-riferimento-dei-dati-originali)
+
+[DESCRIZIONE DEGLI AGGREGATI STRUTTURALI](#DESCRIZIONE-DEGLI-AGGREGATI-STRUTTURALI)
+
+[Formato degli Aggregati Strutturali dati](#Formato-degli-Aggregati-Strutturali)
 
 [Sistema di riferimento degli Aggregati Strutturali](#Sistema-di-riferimento-degli-Aggregati-Strutturali)
 
@@ -27,6 +29,8 @@ Repository in fase di caricamento
 [Verifiche di qualità degli Aggregati Strutturali](#Verifiche-di-qualità-degli-Aggregati-Strutturali)
 
 [Occupazione di memoria Regionale](#Occupazione-di-memoria-Regionale)
+
+[Aggiornamento dei dati](#Aggiornamento-dei-dati)
 
 [Attori coinvolti](#Attori-coinvolti)
 
@@ -96,20 +100,8 @@ DPC-Aggregati-Strutturali-ITI-Centro/
 │   │   │   ├── shapefile comuni
 ```
 
-## Aggiornamento dei dati
-Non pianificato
-
-## Formato dei dati
-Il formato dei dati è shape. Ogni shape è formato da 4 file con le seguenti estensioni: .dbf, .prj, .shp, .shx.
-
-La struttura dei file è la seguente:
-
-| Nome campo                  | Descrizione                       | Formato                            | Esempio                            |
-|-----------------------------|-----------------------------------|----------------------------------------|----------------------------------------|
-| **IDAG**                        | Codice univoco dell’Aggregato Strutturale | 2 cifre: codice ISTAT Regione; 3 cifre: codice ISTAT Provincia; 3 cifre: codice ISTAT Comune; 10 cifre numero progressivo nel Comune; 2 cifre ulteriore identificativo. |07010013000000069200| 
-| **Label**                       | ID Sequenziale nell’ambito del Comune. | Numero progressivo di identificazione dell’aggregato strutturale all’interno del Comune (utile per la rappresentazione in mappa). Questo ulteriore identificativo (in genere pari a 00, viene utilizzato in casi particolari, come quando è necessario ripartire un aggregato – inizialmente definito come un singolo poligono – in base alla realtà osservata dalla squadra durante il sopralluogo in due o più aggregati (Ad esempio, l’aggregato 08 036 022 0000000347 00 suddiviso in due genera i codici:08 036 022 0000000347 01 e 08 036 022 0000000347 02). |692|
-| **Comune**              | Nome ISTAT del Comune.| Denominazione unità amministrative territoriali comunali ISTAT. | Castiglione Cavarese |
-
+## DESCRIZIONE DEI DATI ORIGINALI
+La serie di dataset degli Aggregati Strutturali rappresenta il risultato di una elaborazione realizzata. (in prevalenza) a partire dalla classe dell’edificato dei database geotopografici regionali. I poligoni derivati sono stati, inoltre, ripartiti sulla base dei confini delle unità amministrative ISTAT aggiornati al 2021. A differenza dei dati originali relativi all’edificato (o dei fabbricati catastali, in taluni casi), eterogenei per le loro provenienze e modalità di realizzazione - anche dal punto di vista temporale -, il prodotto finale derivato garantisce una armonizzazione a livello nazionale delle informazioni e delle elaborazioni effettuate  e dei contenuti generati. E' tuttavia necessario esaminare preliminarmente e in dettaglio alcune caratteristiche che descrivono la complessità e specificità dei dati originali utilizzati.
 
 ## Fonti dei dati originali
 
@@ -213,6 +205,20 @@ La struttura dei file è la seguente:
 
 **EPSG:** 3045
 
+##DESCRIZIONE DEGLI AGGREGATI STRUTTURALI
+In questa sezione viene descritta in maggior dettaglio la serie dei dataset degli Aggregati Strutturali che rappresentano il risultato dell'elaborazione dei dati originali precedentemente descritti.
+
+## Formato degli Aggregati Strutturali
+Il formato dei dati è shape. Ogni shape è formato da 4 file con le seguenti estensioni: .dbf, .prj, .shp, .shx.
+
+La struttura dei file è la seguente:
+
+| Nome campo                  | Descrizione                       | Formato                            | Esempio                            |
+|-----------------------------|-----------------------------------|----------------------------------------|----------------------------------------|
+| **IDAG**                        | Codice univoco dell’Aggregato Strutturale | 2 cifre: codice ISTAT Regione; 3 cifre: codice ISTAT Provincia; 3 cifre: codice ISTAT Comune; 10 cifre numero progressivo nel Comune; 2 cifre ulteriore identificativo. |07010013000000069200| 
+| **Label**                       | ID Sequenziale nell’ambito del Comune. | Numero progressivo di identificazione dell’aggregato strutturale all’interno del Comune (utile per la rappresentazione in mappa). Questo ulteriore identificativo (in genere pari a 00, viene utilizzato in casi particolari, come quando è necessario ripartire un aggregato – inizialmente definito come un singolo poligono – in base alla realtà osservata dalla squadra durante il sopralluogo in due o più aggregati (Ad esempio, l’aggregato 08 036 022 0000000347 00 suddiviso in due genera i codici:08 036 022 0000000347 01 e 08 036 022 0000000347 02). |692|
+| **Comune**              | Nome ISTAT del Comune.| Denominazione unità amministrative territoriali comunali ISTAT. | Castiglione Cavarese |
+
 ## Sistema di riferimento degli Aggregati Strutturali
 
 Il sistema di riferimento ufficiale per l’Italia è il sistema ETRF2000 (all’epoca in cui venne definito 2008.0) ed è un obbligo per le Pubbliche Amministrazioni adottarlo in base a quanto stabilito dal DM 10 novembre 2011 “Adozione del Sistema di riferimento geodetico nazionale” (https://www.gazzettaufficiale.it/eli/id/2012/02/27/12A01799/sg).
@@ -310,6 +316,9 @@ Per risolvere eventuali incongruenze generatesi ai bordi di comuni adiacenti, tu
 **Codice Ripartizione NUTS-1:** 3
 
 **Numero delle features:** 389943
+
+## Aggiornamento dei dati
+Non pianificato
 
 ## Attori coinvolti
 
