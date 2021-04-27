@@ -321,7 +321,6 @@ Per risolvere eventuali incongruenze generatesi ai bordi di comuni adiacenti, tu
 Non pianificato
 
 ## Attori coinvolti
-
 Attività istituzionale realizzata in collaborazione tra il Servizio Sistemi Informativi e di comunicazione dell’Ufficio Risorse umane e strumentali e servizi generali di funzionamento (RUS) e i Servizi Attività di rilievo del danno e misure provvisionali e Supporto agli interventi strutturali e gestioni rientrate in ordinario, dell’Ufficio Attività per il superamento dell’emergenza e il supporto agli interventi strutturali (POST), entrambi appartenenti al Dipartimento della protezione civile della Presidenza del Consiglio dei Ministri.
 
 **A cura di:**
@@ -349,4 +348,5 @@ Flavio Celestino Ferrante e Maurizio Ambrosanio (Agenzia delle Entrate - Direzio
 [Relazione tecnica finale](https://github.com/pcm-dpc/DPC-Aggregati-Strutturali-ITI-Centro/blob/master/CartografiaNazionaleAggregatiStrutturali_Finale.pdf)
 
 ## Licenza
+Il titolare della serie di dataset degli Aggregati Strutturali è la Presidenza del Consiglio dei Ministri - Dipartimento della protezione civile e ad esso va riferita la citazione di attribuzione principale. Nelle citazioni vanno altresì riportate le attribuzioni riportate nella sezione "Licenza dei dati originali", richieste da ciascun soggetto che ha fornito - per la sua porzione territoriale - il dato originale.
 [CC-BY-4.0](https://creativecommons.org/licenses/by/4.0/deed.it) - [Visualizza licenza](https://github.com/pcm-dpc/DPC-Aggregati-Strutturali-ITI-Centro/blob/master/LICENSE)
