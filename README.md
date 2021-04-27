@@ -289,15 +289,11 @@ Per risolvere eventuali incongruenze generatesi ai bordi di comuni adiacenti, tu
 
 **Size (Mb):** 916
 
-**Codice Ripartizione NUTS-1:** 3
-
 **Numero delle features:** 1662265
 
 **MARCHE**
 
 **Size (Mb):** 132
-
-**Codice Ripartizione NUTS-1:** 3
 
 **Numero delle features:** 426976
 
@@ -305,15 +301,11 @@ Per risolvere eventuali incongruenze generatesi ai bordi di comuni adiacenti, tu
 
 **Size (Mb):** 427
 
-**Codice Ripartizione NUTS-1:** 3
-
 **Numero delle features:** 1211596
 
 **UMBRIA**
 
 **Size (Mb):** 142
-
-**Codice Ripartizione NUTS-1:** 3
 
 **Numero delle features:** 389943
 
