@@ -205,7 +205,7 @@ La serie di dataset degli Aggregati Strutturali rappresenta il risultato di una 
 
 **EPSG:** 3045
 
-##DESCRIZIONE DEGLI AGGREGATI STRUTTURALI
+## DESCRIZIONE DEGLI AGGREGATI STRUTTURALI
 In questa sezione viene descritta in maggior dettaglio la serie dei dataset degli Aggregati Strutturali che rappresentano il risultato dell'elaborazione dei dati originali precedentemente descritti.
 
 ## Formato degli Aggregati Strutturali
