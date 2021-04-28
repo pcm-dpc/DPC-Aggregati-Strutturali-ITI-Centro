@@ -287,25 +287,25 @@ Per risolvere eventuali incongruenze generatesi ai bordi di comuni adiacenti, tu
 
 **LAZIO**
 
-**Size (Mb):** 916
+**Size (Mb):** 853
 
 **Numero delle features:** 1662265
 
 **MARCHE**
 
-**Size (Mb):** 132
+**Size (Mb):** 105
 
-**Numero delle features:** 426976
+**Numero delle features:** 423963
 
 **TOSCANA**
 
-**Size (Mb):** 427
+**Size (Mb):** 350
 
 **Numero delle features:** 1211596
 
 **UMBRIA**
 
-**Size (Mb):** 142
+**Size (Mb):** 117
 
 **Numero delle features:** 389943
 
