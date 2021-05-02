@@ -313,7 +313,7 @@ Per risolvere eventuali incongruenze generatesi ai bordi di comuni adiacenti, tu
 Non pianificato
 
 ## Attori coinvolti
-Attività istituzionale realizzata in collaborazione tra il Servizio Sistemi Informativi e di comunicazione dell’Ufficio Risorse umane e strumentali e servizi generali di funzionamento (RUS) e i Servizi Attività di rilievo del danno e misure provvisionali e Supporto agli interventi strutturali e gestioni rientrate in ordinario, dell’Ufficio Attività per il superamento dell’emergenza e il supporto agli interventi strutturali (POST), entrambi appartenenti al Dipartimento della protezione civile della Presidenza del Consiglio dei Ministri.
+Attività istituzionale realizzata in collaborazione tra il Servizio Sistemi Informativi e di comunicazione dell’Ufficio Risorse umane e strumentali (RUS) e i Servizi Attività di rilievo del danno post-evento e Gestioni rientrate in ordinario, dell’Ufficio Attività per il superamento dell’emergenza (POST), entrambi appartenenti al Dipartimento della protezione civile della Presidenza del Consiglio dei Ministri.
 
 **A cura di:**
 
@@ -327,7 +327,7 @@ Maria Giovanna Martini, Cosmo Mercuri, Simona Papa, Filomena Papa, Angelo Giusep
 
 _Abruzzo:_ Raffaella Molinari; _Basilicata:_ Alfredo Marino; _Calabria:_ Antonio Morabito; _Campania:_ Massimiliano Rauci; _Emilia-Romagna:_ Fiorella Galluccio; _Friuli Venezia Giulia:_ Fulvio Nodari; _Lazio:_ Adelaide Sericola; _Liguria:_ Mariano Strippoli; _Lombardia:_ Antonella Belloni; _Marche:_ Piepaolo Tiberi; _Molise:_ Diego Antonecchia; _Piemonte:_ Erika Ceriana Mayneri; _Puglia:_ Pasquale Cafaro; _Sardegna:_ Antonio Usai; _Sicilia:_ Antonio Torrisi; _Toscana:_ Massimo Baglione; _Umbria:_ Michele Bellezza; _Valle d’Aosta:_ Gianfranco Maccaferri; _Veneto:_ Umberto Trivelloni; _Provincia Autonoma di Bolzano:_ Diego Mantovani; _Provincia Autonoma di Trento:_ Mauro Zambotto.
 
-**Referenti CISIS:**
+**Referenti Centro Interregionale per I Sistemi Informatici Geografici e Statistici (CISIS):**
 
 Umberto Trivelloni, Gian Bartolomeo Siletto e Claudio Mazzi.
 
