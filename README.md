@@ -5,7 +5,7 @@ Repository degli aggregati strutturali italiani area ITI Centro
 [![GitHub commit](https://img.shields.io/github/last-commit/pcm-dpc/DPC-Aggregati-Strutturali-ITC-NordOvest)](https://github.com/pcm-dpc/DPC-Aggregati-Strutturali-ITI-Centro/commits/master)
 
 ## Avvisi
-Repository in fase di caricamento
+Il 2001-05-12 viene aperto il Repository.
 
 ## Sommario
 [Struttura del Repository](#Struttura-del-repository)
