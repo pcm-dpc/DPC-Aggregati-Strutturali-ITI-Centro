@@ -117,7 +117,7 @@ La serie di dataset degli Aggregati Strutturali rappresenta il risultato di una 
 
 **MARCHE**
 
-**Disponibili nel Web:** La Regione Marche non rende fruibili i propri dati come open data in formato shape https://www.regione.marche.it/Regione-Utile/Paesaggio-Territorio-Urbanistica-Genio-Civile/Cartografia-regionale/Repertorio/Carta-tecnica-numerica-110000/opendata . I dati in formato shape sono ceduti dietro richiesta per fini istituzionali con la clausola di non cederli a terzi.
+**Disponibili nel Web:** La Regione Marche non rende fruibili i propri dati come open data in formato shapefile https://www.regione.marche.it/Regione-Utile/Paesaggio-Territorio-Urbanistica-Genio-Civile/Cartografia-regionale/Repertorio/Carta-tecnica-numerica-110000/opendata . I dati in formato shapefile sono ceduti dietro richiesta per fini istituzionali con la clausola di non cederli a terzi.
 
 **Tipo:** CTRN
 
