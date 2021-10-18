@@ -5,6 +5,10 @@
 - Questo Repository, oltre a contenere gli aggregati strutturali delle regioni ricadenti nella macro regione denominata "Centro" contiene la documentazione
   generale riferita all'intero progetto.
 
+## 2021-10-18
+
+- Pubblicazione presentazione del progetto presso Earth Technology Expo - Firenze del 15 ottobre 2021.
+
 ## 2021-09-10
 
 - Aggiornamento del documento generale a seguito degli ultimi aggiornamenti sui dati.
